@@ -17,6 +17,10 @@ export default {
 .theme--light.v-sheet {
   background-color: rgba(59, 212, 212);
   border-color: #4caac7;
-  color: #ffffffec;
+  color: #252424ec;
+}
+
+.text-center {
+  font-family: "Lucida Sans";
 }
 </style>
